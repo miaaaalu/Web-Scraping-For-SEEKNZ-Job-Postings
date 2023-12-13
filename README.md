@@ -6,8 +6,8 @@ import json
 ```
 
 ## scraper show as json 
-refer to [listing by json](/listing%20by%20json.ipynb)
+refer to [listing by json](/return%20as%20json.py)
 
 
 ## scraper show as data frame 
-refer to [listing by dataframe](/listing%20by%20dataframe.ipynb)
+refer to [listing by dataframe](/return%20as%20data%20frame.py.py)
