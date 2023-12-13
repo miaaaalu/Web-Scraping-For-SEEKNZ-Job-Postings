@@ -1,15 +1,6 @@
 {
     "data-engineer": [
         {
-            "job_id": "72051767",
-            "job_link": "https://www.seek.co.nz/job/72051767?type=promoted&ref=search-standalone",
-            "title": "Cloud Systems Engineer",
-            "salary": null,
-            "company": "Fisher & Paykel Healthcare",
-            "location": "Manukau & East Auckland",
-            "short_description": "Do you want to be part of a growing cloud team that works with products that help support patients and clincians around the world? Join F&P"
-        },
-        {
             "job_id": "71790400",
             "job_link": "https://www.seek.co.nz/job/71790400?type=promoted&ref=search-standalone",
             "title": "Senior Cloud Infrastructure Consultant - Azure",
@@ -17,6 +8,15 @@
             "company": "Theta",
             "location": "Auckland CBD",
             "short_description": "Great opportunity for Senior Cloud Consultant specialising in Microsoft Azure cloud platform to join the dynamic team in our Digital practice."
+        },
+        {
+            "job_id": "72051767",
+            "job_link": "https://www.seek.co.nz/job/72051767?type=promoted&ref=search-standalone",
+            "title": "Cloud Systems Engineer",
+            "salary": null,
+            "company": "Fisher & Paykel Healthcare",
+            "location": "Manukau & East Auckland",
+            "short_description": "Do you want to be part of a growing cloud team that works with products that help support patients and clincians around the world? Join F&P"
         },
         {
             "job_id": "72175978",
