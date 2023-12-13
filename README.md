@@ -8,11 +8,12 @@
   
 ![Alt text](image.png)
 
-## required Pythong libraries 
+## required Python libraries 
 ```py
 import requests
 from bs4 import BeautifulSoup
-import json
+import json             
+import pandas as pd
 ```
 
 ## scraper return as json format
