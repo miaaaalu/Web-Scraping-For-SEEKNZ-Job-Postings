@@ -6,8 +6,8 @@ import json
 ```
 
 ## scraper show as json 
-refer to [a relative link](/listing%20by%20json.ipynb)
+refer to [listing by json](/listing%20by%20json.ipynb)
 
 
-## scraper show as json 
-refer to [a relative link](/listing%20by%20dataframe.ipynb)
+## scraper show as data frame 
+refer to [listing by dataframe](/listing%20by%20dataframe.ipynb)
