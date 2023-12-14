@@ -12,7 +12,6 @@ class WebScraper:
         all_jobs_data = []
         page = 1
         while True:
-            # 使用配置文件中的 URL 模板
             page_url = self.url_template.format(keyword=self.keyword, page=page)
             page_data = self.scrape_page(page_url)
             if not page_data:
