@@ -1,0 +1,4 @@
+{
+    "keywords": ["data-engineer", "BI-developer", "data-consultant"],
+    "url_template": "https://www.seek.co.nz/{keyword}-jobs/in-All-Auckland?sortmode=ListedDate&page={page}"
+}

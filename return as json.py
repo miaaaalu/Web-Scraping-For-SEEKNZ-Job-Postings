@@ -1,25 +1,27 @@
-import requests
-from bs4 import BeautifulSoup
-import json
+import requests                     # used to fetch HTML content 
+from bs4 import BeautifulSoup       # used to parse HTML and XML documents
+import json                         # used to work with JSON data
 
 class WebScraper:
-    def __init__(self, keyword):
+    def __init__(self, keyword, url_template):
         self.keyword = keyword
+        self.url_template = url_template
 
+    # fetching job pages in a loop 
     def get_jobs(self):
         all_jobs_data = []
         page = 1
         while True:
-            #page_url = f"https://www.seek.co.nz/{self.keyword}-jobs/in-All-New-Zealand?sortmode=ListedDate&page={page}"
-            page_url = f"https://www.seek.co.nz/{self.keyword}-jobs/in-All-Auckland?sortmode=ListedDate&page={page}"
+            # 使用配置文件中的 URL 模板
+            page_url = self.url_template.format(keyword=self.keyword, page=page)
             page_data = self.scrape_page(page_url)
             if not page_data:
-                break  
+                break
             all_jobs_data.extend(page_data)
             page += 1
-
-        return all_jobs_data  # Return the list of jobs directl
-
+        return all_jobs_data
+    
+    # scraping job list in a single page
     def scrape_page(self, url):
         headers = {'User-Agent': 'Mozilla/5.0'}
         response = requests.get(url, headers=headers)
@@ -37,7 +39,6 @@ class WebScraper:
                     'job_id': job.get('data-job-id', None),
                     'job_link': job_link,
                     'title': self.get_text(job, 'a', {'data-automation': 'jobTitle'}),
-                    'salary': self.get_text(job, 'a', {'data-automation': 'jobSalary'}),
                     'company': self.get_text(job, 'a', {'data-automation': 'jobCompany'}),
                     'location': self.get_text(job, 'a', {'data-automation': 'jobLocation'}),
                     'short_description': self.get_text(job, 'span', {'data-automation': 'jobShortDescription'})
@@ -53,22 +54,27 @@ class WebScraper:
         element = parent.find(tag, attrs)
         return element.get_text(strip=True) if element else None
 
+## read config file
+with open('config.json', 'r') as file:
+    config = json.load(file)
+
 # Using keywords listing
-keywords = ["data-engineer", "BI-developer", "data-consultant"]
+keywords = config['keywords']
+url_template = config['url_template']
+
 all_data = {}
 
 for keyword in keywords:
-    scraper = WebScraper(keyword)
-    all_data[keyword] = scraper.get_jobs()  # Assign returned data to the keyword
+    scraper = WebScraper(keyword, url_template)
+    all_data[keyword] = scraper.get_jobs()  
 
-# Write the combined data to a single JSON file
+# export data to a single JSON file
 filename = "job_listing_export.json"
 with open(filename, 'w') as file:
     json.dump(all_data, file, indent=4)
 
 print(f"All data export to {filename}")
 
-# Optionally, print the data or store it in a variable for later use
-# Print the data in a nicely formatted JSON style
+# print the data
 formatted_json = json.dumps(all_data, indent=4)
 print(formatted_json)
