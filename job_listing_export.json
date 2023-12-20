@@ -1,20 +1,196 @@
 {
     "data-engineer": [
         {
+            "job_id": "72329310",
+            "job_link": "https://www.seek.co.nz/job/72329310?type=promoted&ref=search-standalone",
+            "title": "DevOps Engineer",
+            "company": "Synlait Milk Ltd",
+            "location": "Auckland Airport",
+            "short_description": "If you are looking for a new start in 2024 then our IS team has a wonderful opportunity to use your Azure platform knowledge as a DevOps Engineer."
+        },
+        {
+            "job_id": "72290817",
+            "job_link": "https://www.seek.co.nz/job/72290817?type=promoted&ref=search-standalone",
+            "title": "Data Visualisation Specialist",
+            "company": "TVNZ",
+            "location": "Auckland CBD",
+            "short_description": "Build data solutions and drive change through data to join our Data Engineering team."
+        },
+        {
+            "job_id": "72329310",
+            "job_link": "https://www.seek.co.nz/job/72329310?type=standout&ref=search-standalone",
+            "title": "DevOps Engineer",
+            "company": "Synlait Milk Ltd",
+            "location": "Auckland Airport",
+            "short_description": "If you are looking for a new start in 2024 then our IS team has a wonderful opportunity to use your Azure platform knowledge as a DevOps Engineer."
+        },
+        {
+            "job_id": "72327758",
+            "job_link": "https://www.seek.co.nz/job/72327758?type=standout&ref=search-standalone",
+            "title": "Golang Engineer",
+            "company": "Vista Group",
+            "location": "Auckland CBD",
+            "short_description": "Play a key role in the further development of Movio Cinema EQ in this core back end Golang Engineer role"
+        },
+        {
+            "job_id": "72327461",
+            "job_link": "https://www.seek.co.nz/job/72327461?type=standout&ref=search-standalone",
+            "title": "Data Architect",
+            "company": "Absolute IT Limited",
+            "location": "Auckland",
+            "short_description": "Great opportunity for a Data Architect in the new year 2024"
+        },
+        {
+            "job_id": "72326539",
+            "job_link": "https://www.seek.co.nz/job/72326539?type=standout&ref=search-standalone",
+            "title": "Senior DevOps Engineer",
+            "company": "LIC",
+            "location": "Auckland CBD",
+            "short_description": "Work collaboratively, provide leadership and guidance, ensure continuous improvement, and deliver value to our customers."
+        },
+        {
+            "job_id": "72326530",
+            "job_link": "https://www.seek.co.nz/job/72326530?type=standout&ref=search-standalone",
+            "title": "DevOps Engineer \u2013 Senior",
+            "company": "Smartrak Ltd",
+            "location": "Auckland CBD",
+            "short_description": "Seeking a senior DevOps to join our highly collaborative team of engineers in either Hamilton or remotely in Auckland."
+        },
+        {
+            "job_id": "72326256",
+            "job_link": "https://www.seek.co.nz/job/72326256?type=standout&ref=search-standalone",
+            "title": "Senior Safety, Change, Security and Resilience Specialist",
+            "company": "Airways NZ Ltd",
+            "location": "Auckland Airport",
+            "short_description": "Role is tasked with delivering leadership at all levels of the business in safety change, security, and resilience across the company."
+        },
+        {
+            "job_id": "72326100",
+            "job_link": "https://www.seek.co.nz/job/72326100?type=standout&ref=search-standalone",
+            "title": "Practice Lead - Software Engineer",
+            "company": "Datacom",
+            "location": "Auckland CBD",
+            "short_description": "Practice Lead \u2013 Software EngineeringOur PurposeHere at Datacom we connect people and technology in order to solve challenges, create opportuniti"
+        },
+        {
+            "job_id": "72308261",
+            "job_link": "https://www.seek.co.nz/job/72308261?type=standout&ref=search-standalone",
+            "title": "Data Scientist",
+            "company": "RWA People - Connecting IT people with outstanding jobs",
+            "location": "Auckland CBD",
+            "short_description": "6 month contract for a passionate Data Scientist"
+        },
+        {
+            "job_id": "72296708",
+            "job_link": "https://www.seek.co.nz/job/72296708?type=standout&ref=search-standalone",
+            "title": "Senior Data Science Engineer",
+            "company": "Henry Schein One",
+            "location": "Albany",
+            "short_description": "As we continue to expand our presence, we are seeking a highly skilled and motivated Senior Data Science Engineer to join our innovative team!"
+        },
+        {
+            "job_id": "72290817",
+            "job_link": "https://www.seek.co.nz/job/72290817?type=standout&ref=search-standalone",
+            "title": "Data Visualisation Specialist",
+            "company": "TVNZ",
+            "location": "Auckland CBD",
+            "short_description": "Build data solutions and drive change through data to join our Data Engineering team."
+        },
+        {
+            "job_id": "72290501",
+            "job_link": "https://www.seek.co.nz/job/72290501?type=standout&ref=search-standalone",
+            "title": "Senior Data Scientist",
+            "company": "Digital Garage",
+            "location": "Auckland",
+            "short_description": "Exciting opportunity for a Senior Data Scientist with this highly successful organisation and passionate team!"
+        },
+        {
+            "job_id": "72289048",
+            "job_link": "https://www.seek.co.nz/job/72289048?type=standard&ref=search-standalone",
+            "title": "Senior Data Scientist /Algorithm Designer / Amazing projects / To $200k",
+            "company": "Enterprise Technology Recruitment Ltd",
+            "location": "Auckland CBD",
+            "short_description": "The role of Algorithm Designer is a key role in the R+D team and will involve you in working on some simply amazing new projects and concepts."
+        },
+        {
+            "job_id": "72287872",
+            "job_link": "https://www.seek.co.nz/job/72287872?type=standout&ref=search-standalone",
+            "title": "Senior Data Scientist",
+            "company": "Reserve Bank of New Zealand",
+            "location": "Auckland",
+            "short_description": "A new fixed term role (to June 2025) in a growing team that is expanding and specialising their practice."
+        },
+        {
+            "job_id": "72287786",
+            "job_link": "https://www.seek.co.nz/job/72287786?type=standout&ref=search-standalone",
+            "title": "Data Scientist",
+            "company": "Reserve Bank of New Zealand",
+            "location": "Auckland",
+            "short_description": "A new permanent role in a growing team that is expanding and specialising their practice."
+        },
+        {
+            "job_id": "72287674",
+            "job_link": "https://www.seek.co.nz/job/72287674?type=standout&ref=search-standalone",
+            "title": "Senior Data Analyst",
+            "company": "Digital Garage",
+            "location": "Auckland",
+            "short_description": "Exciting opportunity for a Data Analyst with this highly successful organisation and passionate team!"
+        },
+        {
+            "job_id": "72262879",
+            "job_link": "https://www.seek.co.nz/job/72262879?type=standout&ref=search-standalone",
+            "title": "Data Analyst (6 months contract)",
+            "company": "Apex Investment Administration (NZ) Limited",
+            "location": "Auckland CBD",
+            "short_description": "This is a 6-month contract role with a global firm, focusing on creating data reporting platforms for wealth managers and investment managers."
+        },
+        {
+            "job_id": "72261452",
+            "job_link": "https://www.seek.co.nz/job/72261452?type=standout&ref=search-standalone",
+            "title": "Cloud Engineer",
+            "company": "BrightSpark Recruitment",
+            "location": "Auckland CBD",
+            "short_description": "Newly created role within the NZ office of a huge global brand that is going through an exciting technology transformation"
+        },
+        {
+            "job_id": "72261364",
+            "job_link": "https://www.seek.co.nz/job/72261364?type=standout&ref=search-standalone",
+            "title": "Senior Software Engineer - Operational Data",
+            "company": "Rocket Lab",
+            "location": "Mount Wellington",
+            "short_description": "Operational data team in software engineering, data-driven solutions, 6+ years experience & tech skills (Python, Docker, SQL, etc.)."
+        },
+        {
+            "job_id": "72259141",
+            "job_link": "https://www.seek.co.nz/job/72259141?type=standout&ref=search-standalone",
+            "title": "Opportunities in 2024!",
+            "company": "Alexander James Limited",
+            "location": "Auckland",
+            "short_description": "Are you a data, digital and/or technology professional looking for you next opportunity?"
+        },
+        {
+            "job_id": "72223486",
+            "job_link": "https://www.seek.co.nz/job/72223486?type=standout&ref=search-standalone",
+            "title": "Senior iOS Developer - Contractors",
+            "company": "Datacom",
+            "location": "Auckland CBD",
+            "short_description": "Come join NZ's largest IT services provider with a New Year start!"
+        },
+        {
+            "job_id": "72262879",
+            "job_link": "https://www.seek.co.nz/job/72262879?type=promoted&ref=search-standalone",
+            "title": "Data Analyst (6 months contract)",
+            "company": "Apex Investment Administration (NZ) Limited",
+            "location": "Auckland CBD",
+            "short_description": "This is a 6-month contract role with a global firm, focusing on creating data reporting platforms for wealth managers and investment managers."
+        },
+        {
             "job_id": "71790400",
             "job_link": "https://www.seek.co.nz/job/71790400?type=promoted&ref=search-standalone",
             "title": "Senior Cloud Infrastructure Consultant - Azure",
             "company": "Theta",
             "location": "Auckland CBD",
             "short_description": "Great opportunity for Senior Cloud Consultant specialising in Microsoft Azure cloud platform to join the dynamic team in our Digital practice."
-        },
-        {
-            "job_id": "72051767",
-            "job_link": "https://www.seek.co.nz/job/72051767?type=promoted&ref=search-standalone",
-            "title": "Cloud Systems Engineer",
-            "company": "Fisher & Paykel Healthcare",
-            "location": "Manukau & East Auckland",
-            "short_description": "Do you want to be part of a growing cloud team that works with products that help support patients and clincians around the world? Join F&P"
         },
         {
             "job_id": "72221315",
@@ -57,14 +233,6 @@
             "short_description": "Assist in the construction and optimisation of data pipelines, primarily using Snowflake, to support analytics and business information"
         },
         {
-            "job_id": "72182510",
-            "job_link": "https://www.seek.co.nz/job/72182510?type=standout&ref=search-standalone",
-            "title": "Data & Analytics Lead",
-            "company": "EBOS Group Ltd",
-            "location": "Mount Wellington",
-            "short_description": "Commercially drive the business to enable productivity, efficiency & performance. Site based full time role. Based in Mount Wellington, Auckland."
-        },
-        {
             "job_id": "72175978",
             "job_link": "https://www.seek.co.nz/job/72175978?type=standout&ref=search-standalone",
             "title": "Senior Software Engineer",
@@ -87,14 +255,6 @@
             "company": "NZ Green Building Council",
             "location": "Auckland CBD",
             "short_description": "Calling junior - to intermediate database and data analysts, this is your chance to really make your mark!\n\nA career with a purpose\nHybrid working"
-        },
-        {
-            "job_id": "72132542",
-            "job_link": "https://www.seek.co.nz/job/72132542?type=standout&ref=search-standalone",
-            "title": "Intermediate Integration Engineer",
-            "company": "ANZ Bank New Zealand Limited",
-            "location": "Auckland CBD",
-            "short_description": "We are looking for an Integration Platform Engineer to join our Delivery team here at ANZ Technology."
         },
         {
             "job_id": "72131780",
@@ -177,22 +337,6 @@
             "short_description": "Join our newly created Digital Transformation team as a Senior BI Developer. Deliver reporting & dashboard solutions. Mt Wellington based."
         },
         {
-            "job_id": "72221307",
-            "job_link": "https://www.seek.co.nz/job/72221307?type=promoted&ref=search-standalone",
-            "title": "Senior Android Developer",
-            "company": "Datacom",
-            "location": "Auckland CBD",
-            "short_description": "Come join New Zealand's largest IT services provider on a new exciting opportunity!"
-        },
-        {
-            "job_id": "71941587",
-            "job_link": "https://www.seek.co.nz/job/71941587?type=promoted&ref=search-standalone",
-            "title": "Senior ICT Systems Support Engineer",
-            "company": "Imara Limited",
-            "location": "Rodney & North Shore",
-            "short_description": "Own the Data Centre Windows Server Eco system for our MSP client on the North Shore. Technical leadership role, no client facing responsibilities too."
-        },
-        {
             "job_id": "72094085",
             "job_link": "https://www.seek.co.nz/job/72094085?type=standard&ref=search-standalone",
             "title": "Senior Data Engineer - Auckland or Dunedin based",
@@ -207,6 +351,22 @@
             "company": "BrightSpark Recruitment",
             "location": "Auckland",
             "short_description": "Play a key leadership role on this large data warehouse project."
+        },
+        {
+            "job_id": "72221307",
+            "job_link": "https://www.seek.co.nz/job/72221307?type=promoted&ref=search-standalone",
+            "title": "Senior Android Developer",
+            "company": "Datacom",
+            "location": "Auckland CBD",
+            "short_description": "Come join New Zealand's largest IT services provider on a new exciting opportunity!"
+        },
+        {
+            "job_id": "71941587",
+            "job_link": "https://www.seek.co.nz/job/71941587?type=promoted&ref=search-standalone",
+            "title": "Senior ICT Systems Support Engineer",
+            "company": "Imara Limited",
+            "location": "Rodney & North Shore",
+            "short_description": "Own the Data Centre Windows Server Eco system for our MSP client on the North Shore. Technical leadership role, no client facing responsibilities too."
         },
         {
             "job_id": "72070681",
@@ -303,22 +463,6 @@
             "company": "Datacom",
             "location": "Auckland CBD",
             "short_description": "Here at Datacom, we connect people and technology to solve challenges, create opportunities and discover new possibilities."
-        },
-        {
-            "job_id": "71951219",
-            "job_link": "https://www.seek.co.nz/job/71951219?type=standout&ref=search-standalone",
-            "title": "Data Engineer - Contract",
-            "company": "AugmentX",
-            "location": "Auckland",
-            "short_description": "Work remotely fully WFH, strong Data Engineer, 3 month contract, immediate start. Azure and SQL, reporting knowledge required."
-        },
-        {
-            "job_id": "71950145",
-            "job_link": "https://www.seek.co.nz/job/71950145?type=standout&ref=search-standalone",
-            "title": "Database Administrator",
-            "company": "Hato Hone St John",
-            "location": "Mount Wellington",
-            "short_description": "The opportunity to work for a large and complex organisation within a supportive and collaborative team"
         },
         {
             "job_id": "71950097",
@@ -449,14 +593,6 @@
             "short_description": "Join top analytical minds in NZ passionate about analytics, tech, and innovation."
         },
         {
-            "job_id": "71870708",
-            "job_link": "https://www.seek.co.nz/job/71870708?type=standout&ref=search-standalone",
-            "title": "Business Analyst - Fixed Term",
-            "company": "Datacom",
-            "location": "Auckland CBD",
-            "short_description": "Our purpose  Here at Datacom we connect people and technology in order to solve challenges, create opportunities and discover new possibilities"
-        },
-        {
             "job_id": "71856371",
             "job_link": "https://www.seek.co.nz/job/71856371?type=standard&ref=search-standalone",
             "title": "Data Engineer",
@@ -487,14 +623,6 @@
             "company": "Recruit I.T. Auckland",
             "location": "Grey Lynn",
             "short_description": "Have a background in data-engineering? Comfortable interacting with domain architects and want to become a Product Owner? Read more below!"
-        },
-        {
-            "job_id": "71846184",
-            "job_link": "https://www.seek.co.nz/job/71846184?type=standout&ref=search-standalone",
-            "title": "Cybersecurity Analyst L2 | Auckland",
-            "company": "Datacom",
-            "location": "Auckland CBD",
-            "short_description": "Here at Datacom we connect people and technology in order to solve challenges, create opportunities and discover new possibilities!"
         },
         {
             "job_id": "71845090",
@@ -593,14 +721,6 @@
             "short_description": "This role requires a Senior Sybase DBA for an initial 6 month contract."
         },
         {
-            "job_id": "71791561",
-            "job_link": "https://www.seek.co.nz/job/71791561?type=standout&ref=search-standalone",
-            "title": "Digital Advertising Associate - Remote",
-            "company": "Institute of Data",
-            "location": "Auckland CBD",
-            "short_description": "Bring your digital advertising skills to the ed tech space. Fully remote role that you can make your own."
-        },
-        {
             "job_id": "71790776",
             "job_link": "https://www.seek.co.nz/job/71790776?type=standout&ref=search-standalone",
             "title": "Principal Platform Architect - AWS",
@@ -615,22 +735,6 @@
             "company": "Theta",
             "location": "Auckland CBD",
             "short_description": "Great opportunity for Senior Cloud Consultant specialising in Microsoft Azure cloud platform to join the dynamic team in our Digital practice."
-        },
-        {
-            "job_id": "71749765",
-            "job_link": "https://www.seek.co.nz/job/71749765?type=standout&ref=search-standalone",
-            "title": "Contract DBA/Database Developer",
-            "company": "Consult Recruitment - IT & Digital",
-            "location": "Auckland CBD",
-            "short_description": "Looking to secure a contract role before the end of the year? Our client is recruiting a Senior DBA specialist for a large scale project!"
-        },
-        {
-            "job_id": "71748195",
-            "job_link": "https://www.seek.co.nz/job/71748195?type=standout&ref=search-standalone",
-            "title": "Principal Engineer - Integration",
-            "company": "Datacom",
-            "location": "Auckland CBD",
-            "short_description": "Our purpose  Here at Datacom we connect people and technology in order to solve challenges, create opportunities and discover new possibilities"
         },
         {
             "job_id": "71743762",
@@ -721,14 +825,6 @@
             "short_description": "Use your excitement and passion for cloud technologies and your extensive skills in AWS to take your career to the next level."
         },
         {
-            "job_id": "71667197",
-            "job_link": "https://www.seek.co.nz/job/71667197?type=standout&ref=search-standalone",
-            "title": "Senior Software Engineer",
-            "company": "The Access Group",
-            "location": "Takapuna",
-            "short_description": "Want to work with a talented software team, focused on the success of our customers? This could be the role for you."
-        },
-        {
             "job_id": "71666525",
             "job_link": "https://www.seek.co.nz/job/71666525?type=standard&ref=search-standalone",
             "title": "Enterprise Solution Architect, Data Center - Network Service Engineer [DC - SRE]",
@@ -791,88 +887,48 @@
             "company": "Talent \u2013 Specialists in tech, transformation & beyond",
             "location": "Auckland CBD",
             "short_description": "Fantastic 6 month contract opportunity for a Senior Data Tester!"
-        },
-        {
-            "job_id": "71627192",
-            "job_link": "https://www.seek.co.nz/job/71627192?type=standout&ref=search-standalone",
-            "title": "SAP Analytics Cloud Developer",
-            "company": "Mitre 10",
-            "location": "Albany",
-            "short_description": "We have an exciting new opportunity available to join our Albany based Support Centre as SAP Analytics Cloud Developer."
-        },
-        {
-            "job_id": "71593507",
-            "job_link": "https://www.seek.co.nz/job/71593507?type=standout&ref=search-standalone",
-            "title": "Senior Quality Assurance Automation Engineer",
-            "company": "Datacom",
-            "location": "Auckland CBD",
-            "short_description": "Here at Datacom we connect people and technology in order to solve challenges, create opportunities and discover new possibilities"
-        },
-        {
-            "job_id": "71583196",
-            "job_link": "https://www.seek.co.nz/job/71583196?type=standout&ref=search-standalone",
-            "title": "Platform Lead",
-            "company": "AoFrio",
-            "location": "Albany",
-            "short_description": "Play a pivotal role in the development and management of cloud-based backend infrastructure of our hardware-enabled SAAS solution."
-        },
-        {
-            "job_id": "71582829",
-            "job_link": "https://www.seek.co.nz/job/71582829?type=standout&ref=search-standalone",
-            "title": "Cloud Engineer",
-            "company": "Kordia",
-            "location": "Auckland CBD",
-            "short_description": "Great opportunity to bring your Azure/AWS support skills, take responsibility for BAU work and get your foot in the door of a fabulous team!"
-        },
-        {
-            "job_id": "71555343",
-            "job_link": "https://www.seek.co.nz/job/71555343?type=standout&ref=search-standalone",
-            "title": "Senior DevOps Engineer",
-            "company": "The Warehouse Group",
-            "location": "Northcote",
-            "short_description": "Considering a career move for 2024? Join our large IT team & help shape & lead transformation change within the business from a DevOps Perspective!"
-        },
-        {
-            "job_id": "71553038",
-            "job_link": "https://www.seek.co.nz/job/71553038?type=standout&ref=search-standalone",
-            "title": "Intermediate DevOps Engineer",
-            "company": "Potentia",
-            "location": "Auckland",
-            "short_description": "Intermediate DevOps Engineer"
-        },
-        {
-            "job_id": "71527518",
-            "job_link": "https://www.seek.co.nz/job/71527518?type=standard&ref=search-standalone",
-            "title": "Senior Python Developer",
-            "company": "Robert Half Technology",
-            "location": "East Tamaki",
-            "short_description": "Hi-tech company based in East Auckland is looking for an experienced Python Developer, working on lots of greenfield projects"
-        },
-        {
-            "job_id": "71527401",
-            "job_link": "https://www.seek.co.nz/job/71527401?type=standout&ref=search-standalone",
-            "title": "Intermediate Python / .Net Developer",
-            "company": "Presto Resourcing",
-            "location": "Auckland CBD",
-            "short_description": "Awesome Opportunity for seasoned professional Intermediate Python/.Net Developer to join leading financial services provider"
-        },
-        {
-            "job_id": "71524994",
-            "job_link": "https://www.seek.co.nz/job/71524994?type=standout&ref=search-standalone",
-            "title": "Data Engineer - Graduate",
-            "company": "The Building Intelligence Group",
-            "location": "Auckland CBD",
-            "short_description": "Passionate about data and curious about project management? Join the PM company with the largest footprint in NZ. Perfect to learn, grow and upskill."
         }
     ],
     "BI-developer": [
         {
-            "job_id": "71792773",
-            "job_link": "https://www.seek.co.nz/job/71792773?type=promoted&ref=search-standalone",
-            "title": "National Sales Manager",
-            "company": "Wolfbrook Property Group",
+            "job_id": "72262879",
+            "job_link": "https://www.seek.co.nz/job/72262879?type=promoted&ref=search-standalone",
+            "title": "Data Analyst (6 months contract)",
+            "company": "Apex Investment Administration (NZ) Limited",
             "location": "Auckland CBD",
-            "short_description": "Wolfbrook Residential is one on New Zealand\u2019s largest residential property developers.  Join our senior leadership team as National Sales Manager."
+            "short_description": "This is a 6-month contract role with a global firm, focusing on creating data reporting platforms for wealth managers and investment managers."
+        },
+        {
+            "job_id": "72290817",
+            "job_link": "https://www.seek.co.nz/job/72290817?type=promoted&ref=search-standalone",
+            "title": "Data Visualisation Specialist",
+            "company": "TVNZ",
+            "location": "Auckland CBD",
+            "short_description": "Build data solutions and drive change through data to join our Data Engineering team."
+        },
+        {
+            "job_id": "72290817",
+            "job_link": "https://www.seek.co.nz/job/72290817?type=standout&ref=search-standalone",
+            "title": "Data Visualisation Specialist",
+            "company": "TVNZ",
+            "location": "Auckland CBD",
+            "short_description": "Build data solutions and drive change through data to join our Data Engineering team."
+        },
+        {
+            "job_id": "72262879",
+            "job_link": "https://www.seek.co.nz/job/72262879?type=standout&ref=search-standalone",
+            "title": "Data Analyst (6 months contract)",
+            "company": "Apex Investment Administration (NZ) Limited",
+            "location": "Auckland CBD",
+            "short_description": "This is a 6-month contract role with a global firm, focusing on creating data reporting platforms for wealth managers and investment managers."
+        },
+        {
+            "job_id": "72228570",
+            "job_link": "https://www.seek.co.nz/job/72228570?type=standard&ref=search-standalone",
+            "title": "Reporting Analyst",
+            "company": "Robert Half Management Resources",
+            "location": "Greenlane",
+            "short_description": "Contract Reporting Analyst|4 - 6 Months | Greenlane Based"
         },
         {
             "job_id": "72175948",
@@ -881,14 +937,6 @@
             "company": "hummgroup",
             "location": "Auckland CBD",
             "short_description": "Our business in New Zealand is a prominent in the financial services sector is dedicated to delivering innovative financial solutions."
-        },
-        {
-            "job_id": "72134132",
-            "job_link": "https://www.seek.co.nz/job/72134132?type=standout&ref=search-standalone",
-            "title": "Business Intelligence Analyst",
-            "company": "ASB Bank Limited",
-            "location": "Auckland CBD",
-            "short_description": "We have a fantastic 12 month fixed term opportunity to join the fast-paced Operations team as a Business Intelligence Analyst to support our team!"
         },
         {
             "job_id": "72111290",
@@ -963,14 +1011,6 @@
             "short_description": "You will be responsible for migrating client reports to our new software. Working closely with clients who are going through the migration process."
         },
         {
-            "job_id": "71873412",
-            "job_link": "https://www.seek.co.nz/job/71873412?type=standout&ref=search-standalone",
-            "title": "Associate Consultant - Data & Tech",
-            "company": "FCB",
-            "location": "Auckland CBD",
-            "short_description": "Associate Consultant"
-        },
-        {
             "job_id": "71872921",
             "job_link": "https://www.seek.co.nz/job/71872921?type=standout&ref=search-standalone",
             "title": "Business Intelligence Consultant",
@@ -1011,14 +1051,6 @@
             "short_description": "Wolfbrook Residential is one on New Zealand\u2019s largest residential property developers.  Join our senior leadership team as National Sales Manager."
         },
         {
-            "job_id": "71749765",
-            "job_link": "https://www.seek.co.nz/job/71749765?type=standout&ref=search-standalone",
-            "title": "Contract DBA/Database Developer",
-            "company": "Consult Recruitment - IT & Digital",
-            "location": "Auckland CBD",
-            "short_description": "Looking to secure a contract role before the end of the year? Our client is recruiting a Senior DBA specialist for a large scale project!"
-        },
-        {
             "job_id": "71749169",
             "job_link": "https://www.seek.co.nz/job/71749169?type=standout&ref=search-standalone",
             "title": "BI/Data Analyst",
@@ -1035,6 +1067,14 @@
             "short_description": "Working for an IT Consultancy, make an impact by uplifting the SAP BI capability of their client's team."
         },
         {
+            "job_id": "71792773",
+            "job_link": "https://www.seek.co.nz/job/71792773?type=promoted&ref=search-standalone",
+            "title": "National Sales Manager",
+            "company": "Wolfbrook Property Group",
+            "location": "Auckland CBD",
+            "short_description": "Wolfbrook Residential is one on New Zealand\u2019s largest residential property developers.  Join our senior leadership team as National Sales Manager."
+        },
+        {
             "job_id": "71655675",
             "job_link": "https://www.seek.co.nz/job/71655675?type=standout&ref=search-standalone",
             "title": "Business Intelligence / Data Visualisation Analyst",
@@ -1049,17 +1089,33 @@
             "company": "Business Insights NZ Limited",
             "location": "Auckland CBD",
             "short_description": "Budgeting, reporting and planning consulting, Remote working from Australia or NZ permitted."
-        },
-        {
-            "job_id": "71627192",
-            "job_link": "https://www.seek.co.nz/job/71627192?type=standout&ref=search-standalone",
-            "title": "SAP Analytics Cloud Developer",
-            "company": "Mitre 10",
-            "location": "Albany",
-            "short_description": "We have an exciting new opportunity available to join our Albany based Support Centre as SAP Analytics Cloud Developer."
         }
     ],
     "data-consultant": [
+        {
+            "job_id": "72290817",
+            "job_link": "https://www.seek.co.nz/job/72290817?type=promoted&ref=search-standalone",
+            "title": "Data Visualisation Specialist",
+            "company": "TVNZ",
+            "location": "Auckland CBD",
+            "short_description": "Build data solutions and drive change through data to join our Data Engineering team."
+        },
+        {
+            "job_id": "72290817",
+            "job_link": "https://www.seek.co.nz/job/72290817?type=standout&ref=search-standalone",
+            "title": "Data Visualisation Specialist",
+            "company": "TVNZ",
+            "location": "Auckland CBD",
+            "short_description": "Build data solutions and drive change through data to join our Data Engineering team."
+        },
+        {
+            "job_id": "71687656",
+            "job_link": "https://www.seek.co.nz/job/71687656?type=standard&ref=search-standalone",
+            "title": "Senior Social Work \u2013 Case Manager",
+            "company": "H\u0101pai T\u016bhono Charitable Trust",
+            "location": "Manukau",
+            "short_description": "Join H\u0101pai T\u016bhono as a Senior Social Work Case Manager: Transform lives, inspire rangatahi, and uplift M\u0101ori communities. Apply now!"
+        },
         {
             "job_id": "72168723",
             "job_link": "https://www.seek.co.nz/job/72168723?type=standout&ref=search-standalone",
@@ -1099,14 +1155,6 @@
             "company": "Potentia",
             "location": "Auckland CBD",
             "short_description": "Provide world class Data expertise utilising transformative architecture and strategy"
-        },
-        {
-            "job_id": "71687656",
-            "job_link": "https://www.seek.co.nz/job/71687656?type=standard&ref=search-standalone",
-            "title": "Senior Social Work \u2013 Case Manager",
-            "company": "H\u0101pai T\u016bhono Charitable Trust",
-            "location": "Manukau",
-            "short_description": "Join H\u0101pai T\u016bhono as a Senior Social Work Case Manager: Transform lives, inspire rangatahi, and uplift M\u0101ori communities. Apply now!"
         }
     ]
 }
